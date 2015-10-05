@@ -1,0 +1,31 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="Halloween.css"/>
+		<title> Halloween Website </title>
+	<head>
+	<body>
+		<h1 style=" text-align:center; color: white""> Computer Club Loves Halloween! </h1>
+		<div id=img1>
+			<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOZPbQaF1TkRkql3oF86_j8uFmw5nSWmI6awsSMd5NM41MReP-">
+		</div>
+		<div id=img2>
+			<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOZPbQaF1TkRkql3oF86_j8uFmw5nSWmI6awsSMd5NM41MReP-">
+		</div>
+		<p> Costumes! </p>
+		<p> Halloween Specials! </p>
+		<p> Candy! </p>
+		<a href="https://en.wikipedia.org/wiki/Donald_Trump"> 
+		<p> Spooky Scary Link </p>
+		</a>
+		<audio controls>
+			<source src="Spooky Scary Skeletons (Remix) - Extended Mix.mp3" type="audio/mpeg">
+		</audio>
+		<div id=skeleton1>
+			<img src="https://media1.giphy.com/media/N2fDcOGHsEEA8/200.gif">
+		</div>
+		<div id=skeleton2>
+			<img src="https://media1.giphy.com/media/N2fDcOGHsEEA8/200.gif">
+		</div>
+	</body>
+</html>
