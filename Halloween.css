@@ -1,0 +1,38 @@
+#img1 {
+	position: absolute;
+	left: 5%;
+	margin-right: -50px;
+}
+
+#img2 {
+	position: absolute;
+	right: 5%;
+	margin-right: -50px;
+}
+
+body {
+	background-color: black;
+}
+
+p   { 
+	text-align:center; 
+	color: white;
+	font-size: 50px;
+}
+
+#skeleton1  {
+	position: absolute;
+	left: 5%;
+	margin-right: 50px;
+}
+
+#skeleton2  {
+	position: absolute;
+	right: 5%;
+	margin-right: 50px;
+}
+
+audio {
+	text-align:center; 
+}
+
